@@ -1,7 +1,7 @@
 
 [![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-information-technology-concept-server-room-background-big-data-science-analysis-information-technology-155674955.jpg)](https://github.com/YasserArbid/YasserArbid)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasser+Arbid;Data+Scientist%7C+Cloud+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasser+Arbid;Data+Scientist%7CCloud+Architect)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserarbid&label=Profile%20views&color=0e75b6&style=flat" alt="yasserarbid" /> </p>
