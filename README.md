@@ -1,35 +1,98 @@
-
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-information-technology-concept-server-room-background-big-data-science-analysis-information-technology-155674955.jpg)](https://github.com/YasserArbid/YasserArbid)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasser+Arbid;Data+Scientist%7CCloud+Architect)](https://git.io/typing-svg)
+# Yasser Arbid — AI &amp; Data Science Leader
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserarbid&label=Profile%20views&color=0e75b6&style=flat" alt="yasserarbid" /> </p>
 
-![Data Scientist GIF](https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif)
-
-
-- 🔭 I’m currently working on **Revolutionizing user conversations through intelligent agents powered by LLMs.**
-
-- 🌱 I’m currently learning **Advanced techniques in machine learning, including prompt engineering and model optimization.**
-
-- 👯 I’m looking to collaborate on **Innovative projects involving machine learning, data science, and AI applications.**
-
-- 💬 Ask me about **leveraging AI, NLP, and building intelligent systems. I'm passionate about sharing knowledge!**
-
-- 📫 How to reach me **yasserarbid@gmail.com**
+<div style="width: 100%; height: 400px; overflow: hidden; text-align: center;">
+  <img src="https://scontent-waw2-1.xx.fbcdn.net/v/t1.6435-9/39454157_2132972803644196_2199717889202716672_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=or2wzU998iAQ7kNvwH08XMs&_nc_oc=AdmY8NdTiPytdXHQJuDa8FySr8La_wSUOD1r-sUHR5bMnqyC_bOhPKy_wwgbs54UmyTzLxWKMS4QzLY0nCcojZue&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=3gqlw4w-RXe68fma5I39Fw&oh=00_Afh9DePZYXmwLXNTWcyPvG2byfVc8qE5JKMK8rjNSYAUnQ&oe=69387C71" alt="Professional headshot of Yasser Arbid in formal attire" style="width: 100%; position: relative; top: -100px;" />
+</div>
 
 
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasser-arbid/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yasser%20Arbid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile badge" />
+  </a>
+  <a href="mailto:yasserarbid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yasserarbid%40gmail.com-0A2540?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact badge" />
+  </a>
+  <a href="https://github.com/YasserArbid">
+    <img src="https://img.shields.io/badge/GitHub-YasserArbid-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile badge" />
+  </a>
+</p>
+
+---
+
+## Professional Summary:
+
+Senior Data Scientist and AI Engineer with 7+ years at Accenture, specializing in production LLM/RAG systems and enterprise ML platforms. I design, ship, and scale AI products that serve 300+ employees across 9 business units, delivering measurable business outcomes and executive‑grade reliability. I turn ambiguous problems into dependable solutions by combining engineering rigor, strong governance, and crisp stakeholder communication.
+
+ 
+
+## Key Achievements:
+
+| Achievement | Impact |
+|-------------|--------|
+| Decision accuracy uplift at executive level through automated BI and optimized ETL | +35% |
+| GenAI product adoption with governed RAG assistants and feedback loops | 95%+ user satisfaction |
+| Operational efficiency by eliminating manual reporting via trusted automation | −40 hours/week |
+| Enterprise scale serving employees across business units with SLAs and monitoring | 300+ employees across 9 units |
+
+## Leadership Philosophy:
+
+Product‑first and outcome‑led. I prioritize adoption, SLAs, reliability, and stakeholder trust. My approach pairs pragmatic engineering with clear, executive‑level communication to ensure AI initiatives become durable, high‑confidence capabilities.
+
+- Focus on measurable outcomes and user experience, not just models.
+- Governed pipelines: observability, feedback loops, and change management by design.
+- Ship fast, de‑risk early, and maintain clean interfaces between stakeholders and systems.
+
+## Career Highlights:
+
+| Project/Role | Description |
+|--------------|-------------|
+| Enterprise RAG Assistant | 95%+ satisfaction, governed retrieval, iterative feedback loops |
+| Executive BI & Automated ETL | +35% decision accuracy, −40h/week manual reporting |
+| Computer Vision Defect Detection (CNN) | 99.66% accuracy with low‑latency inference |
+| Roles | Senior DS / AI Engineer; Accenture (7+ years); Warsaw/EU/Remote |
+ 
+## Core Technologies
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0A2540?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2A9D8F?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2A9D8F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E76F51?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A2540?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2A9D8F?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-E76F51?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A2540?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2A9D8F?style=for-the-badge&logo=powerbi&logoColor=white)
+
+ 
+## GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=YasserArbid&show_icons=true&locale=en&layout=compact&hide_progress=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserArbid&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=YasserArbid&show_icons=true&locale=en&hide_rank=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YasserArbid&show_icons=true&locale=en" alt="GitHub Stats" width="49%" />
+  </picture>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YasserArbid&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasserArbid&" alt="GitHub Streak" width="65%" />
+  </picture>
+</p>
 
 
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- LinkedIn: [https://www.linkedin.com/in/yasser-arbid/](https://www.linkedin.com/in/yasser-arbid/)
+- Email: [mailto:yasserarbid@gmail.com](mailto:yasserarbid@gmail.com)
+- GitHub: [https://github.com/YasserArbid](https://github.com/YasserArbid)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasserarbid&show_icons=true&locale=en&layout=compact" alt="yasserarbid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasserarbid&show_icons=true&locale=en" alt="yasserarbid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasserarbid&" alt="yasserarbid" /></p>
