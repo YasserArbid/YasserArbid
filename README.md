@@ -93,6 +93,6 @@ Product‑first and outcome‑led. I prioritize adoption, SLAs, reliability, and
 ## Contact
 
 - LinkedIn: [https://www.linkedin.com/in/yasser-arbid/](https://www.linkedin.com/in/yasser-arbid/)
-- Email: [mailto:yasserarbid@gmail.com](mailto:yasserarbid@gmail.com)
+- Email: [yasserarbid@gmail.com](yasserarbid@gmail.com)
 - GitHub: [https://github.com/YasserArbid](https://github.com/YasserArbid)
 
