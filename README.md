@@ -2,8 +2,12 @@
 
 
 
-<div style="width: 100%; height: 400px; overflow: hidden; text-align: center;">
-  <img src="https://scontent-waw2-1.xx.fbcdn.net/v/t1.6435-9/39454157_2132972803644196_2199717889202716672_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=or2wzU998iAQ7kNvwH08XMs&_nc_oc=AdmY8NdTiPytdXHQJuDa8FySr8La_wSUOD1r-sUHR5bMnqyC_bOhPKy_wwgbs54UmyTzLxWKMS4QzLY0nCcojZue&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=3gqlw4w-RXe68fma5I39Fw&oh=00_Afh9DePZYXmwLXNTWcyPvG2byfVc8qE5JKMK8rjNSYAUnQ&oe=69387C71" alt="Professional headshot of Yasser Arbid in formal attire" style="width: 100%; position: relative; top: -100px;" />
+<div align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1lvu8oC4b_d20qL57eGbU1HZv9xJRhRvr"
+    alt="Yasser Arbid professional headshot"
+    style="max-width:900px; width:100%; border-radius:12px;"
+  />
 </div>
 
 
