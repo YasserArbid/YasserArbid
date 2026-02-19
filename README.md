@@ -2,13 +2,7 @@
 
 
 
-<div align="center">
-  <img
-    src="https://drive.google.com/uc?export=view&id=1lvu8oC4b_d20qL57eGbU1HZv9xJRhRvr"
-    alt="Yasser Arbid professional headshot"
-    style="max-width:900px; width:100%; border-radius:12px;"
-  />
-</div>
+
 
 
 
